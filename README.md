@@ -14,3 +14,9 @@
 ![](./example.jpg)
 
 수치해석 복습용으로 만든 것이라 실용성은 없습니다.
+
+
+
+## 참고자료
+
+- Numerical Analysis 10th edition by Burden&Faires
